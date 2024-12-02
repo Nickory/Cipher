@@ -26,7 +26,7 @@ This repository contains a collection of six experiments required for the Applic
 - **GUI Preview**:  
   ![Experiment 3 GUI](images/experiment3-gui.png)  
 
-### Experiment 4: Feistel Network / Feistel网络
+### Experiment 4: Feistel Algorithm / Feistel算法
 - **Description**: Implement the Feistel encryption algorithm, test its security properties, and evaluate its avalanche effect.
 - **GUI Preview**:  
   ![Experiment 4 GUI](images/experiment4-gui.png)  
