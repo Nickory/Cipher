@@ -13,5 +13,3 @@ This project is licensed under the **Creative Commons Attribution-NoDerivatives 
 ## Acknowledgements
 This project was developed for the **Application Cryptography** course at **Nanjing University of Information Science & Technology (NUIST)**. Special thanks to **Professor Zhiguo Qu** for his guidance throughout the project.
 This project is funded by the **National College Student Innovation and Entrepreneurship Project**, Fund Number: **ZR2022MF338**. Special thanks to **Professor Baowei Wang** for his support.
-
-Let me know if you'd like to make any further modifications!
