@@ -12,17 +12,32 @@ This repository contains a collection of six experiments required for the Applic
 ## Experiments
 
 ### Experiment 1: Extended Euclidean Algorithm / 扩展欧几里得算法
-- **Description**: Implement and verify the extended Euclidean algorithm. This experiment computes the greatest common divisor (GCD) of two integers and determines coefficients that satisfy Bézout's identity.
 
-- **Experiment Results**:  
-  Below are the visual results of the experiment:
+#### **Description**
+This experiment demonstrates the implementation of the Extended Euclidean Algorithm, which calculates the greatest common divisor (GCD) of two integers and finds coefficients satisfying Bézout's identity. It evaluates the algorithm's performance and visualizes intermediate computations.
 
-  <div style="display: flex; justify-content: space-around;">
-    <img src="images/result1.png" alt="Result 1" width="300" />
-    <img src="images/result2.png" alt="Result 2" width="300" />
-    <img src="images/result3.png" alt="Result 3" width="300" />
-    <img src="images/result4.png" alt="Result 4" width="300" />
-  </div>
+#### **Experimental Results**
+
+The following visualizations illustrate key aspects of the experiment:
+
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px;">
+    <div style="text-align: center;">
+        <img src="images/image1.png" alt="Convergence of a and b" style="width: 23%; border: 1px solid #ccc;" />
+        <p>Convergence of Values and Quotient Analysis</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="images/image5.png" alt="Heatmap" style="width: 23%; border: 1px solid #ccc;" />
+        <p>Step Count Heatmap</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="images/image6.png" alt="Time Complexity Analysis" style="width: 23%; border: 1px solid #ccc;" />
+        <p>Time Complexity Analysis</p>
+    </div>
+    <div style="text-align: center;">
+        <img src="images/image7.png" alt="Sensitivity Analysis" style="width: 23%; border: 1px solid #ccc;" />
+        <p>Sensitivity Analysis</p>
+    </div>
+</div>
 
 
 ### Experiment 2: Substitution Cipher / 单表密码
