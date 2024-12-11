@@ -18,26 +18,21 @@ This experiment demonstrates the implementation of the Extended Euclidean Algori
 
 #### **Experimental Results**
 
-The following visualizations illustrate key aspects of the experiment:
+The following visualizations highlight the key results:
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 10px;">
-    <div style="text-align: center;">
-        <img src="images/image1.png" alt="Convergence of a and b" style="width: 23%; border: 1px solid #ccc;" />
-        <p>Convergence of Values and Quotient Analysis</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="images/image5.png" alt="Heatmap" style="width: 23%; border: 1px solid #ccc;" />
-        <p>Step Count Heatmap</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="images/image6.png" alt="Time Complexity Analysis" style="width: 23%; border: 1px solid #ccc;" />
-        <p>Time Complexity Analysis</p>
-    </div>
-    <div style="text-align: center;">
-        <img src="images/image7.png" alt="Sensitivity Analysis" style="width: 23%; border: 1px solid #ccc;" />
-        <p>Sensitivity Analysis</p>
-    </div>
-</div>
+<p align="center">
+    <img src="images/image1.png" alt="Convergence of a and b" width="22%" />
+    <img src="images/image5.png" alt="Step Count Heatmap" width="22%" />
+    <img src="images/image6.png" alt="Time Complexity Analysis" width="22%" />
+    <img src="images/image7.png" alt="Sensitivity Analysis" width="22%" />
+</p>
+
+<p align="center">
+    <b>Figure 1</b>: Convergence of Values and Quotient Analysis &nbsp;&nbsp; 
+    <b>Figure 2</b>: Step Count Heatmap &nbsp;&nbsp; 
+    <b>Figure 3</b>: Time Complexity Analysis &nbsp;&nbsp; 
+    <b>Figure 4</b>: Sensitivity Analysis
+</p>
 
 
 ### Experiment 2: Substitution Cipher / 单表密码
