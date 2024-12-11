@@ -13,8 +13,17 @@ This repository contains a collection of six experiments required for the Applic
 
 ### Experiment 1: Extended Euclidean Algorithm / 扩展欧几里得算法
 - **Description**: Implement and verify the extended Euclidean algorithm. This experiment computes the greatest common divisor (GCD) of two integers and determines coefficients that satisfy Bézout's identity.
-- **GUI Preview**:  
-  ![Experiment 1 GUI](images/experiment1-gui.png)  
+
+- **Experiment Results**:  
+  Below are the visual results of the experiment:
+
+  <div style="display: flex; justify-content: space-around;">
+    <img src="images/result1.png" alt="Result 1" width="300" />
+    <img src="images/result2.png" alt="Result 2" width="300" />
+    <img src="images/result3.png" alt="Result 3" width="300" />
+    <img src="images/result4.png" alt="Result 4" width="300" />
+  </div>
+
 
 ### Experiment 2: Substitution Cipher / 单表密码
 - **Description**: Implement substitution cipher encryption and decryption. Analyze the frequency of letters in ciphertext to explore its vulnerability to attacks.
