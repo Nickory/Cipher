@@ -112,12 +112,12 @@ To install and run the experiments locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/cryptography-experiments.git
+    git clone https://github.com/Nickory/Cipher.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd cryptography-experiments
+    cd Cipher
     ```
 
 3. **Install the required dependencies**:
