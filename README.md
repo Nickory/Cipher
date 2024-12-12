@@ -2,7 +2,7 @@
 
 Welcome to the **Cipher** repository! This collection contains six experiments required for the **Application Cryptography** course at **Nanjing University of Information Science & Technology (NUIST)**. Each experiment features an intuitive **Graphical User Interface (GUI)**, making the learning process interactive and visually engaging. This repository is designed to help you explore and master key cryptographic techniques.
 
-本项目包含南京信息工程大学应用密码学课程所需的六个实验。每个实验都配备了图形用户界面 (GUI)，以便于直观的学习和实践。项目涵盖了密码学的核心概念，为学习和掌握密码学理论与实际应用提供了便捷的工具。
+本项目包含南京信息工程大学应用密码学课程所需的六个实验。除欧几里得算法，每个实验都配备了图形用户界面 (GUI)，以便于直观的学习和实践。项目涵盖了密码学的核心实验，为学习和掌握密码学理论与实际应用提供了便捷的工具。
 
 🎓 **Course**: Application Cryptography  
 🏫 **University**: Nanjing University of Information Science & Technology (NUIST)  
