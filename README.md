@@ -78,7 +78,7 @@ The **Playfair Cipher** experiment demonstrates both the encryption and decrypti
 
 #### 🌟 **GUI Preview**
 <p align="center">
-    <img src="images/experiment3-gui.png" alt="Experiment 3 GUI" width="60%" />
+    <img src="images/experiment3-gui.png" alt="Experiment 3 GUI" width="40%" />
 </p>
 
 ---
@@ -101,7 +101,7 @@ In this experiment, you’ll implement the **Feistel Cipher**, a structure used 
 
 #### 🌟 **GUI Preview**
 <p align="center">
-    <img src="images/experiment4-gui.png" alt="Experiment 4 GUI" width="60%" />
+    <img src="images/experiment4-gui.png" alt="Experiment 4 GUI" width="40%" />
 </p>
 
 ---
@@ -124,7 +124,7 @@ This experiment focuses on implementing the **Advanced Encryption Standard (AES)
 
 #### 🌟 **GUI Preview**
 <p align="center">
-    <img src="images/experiment5-gui.png" alt="Experiment 5 GUI" width="60%" />
+    <img src="images/experiment5-gui.png" alt="Experiment 5 GUI" width="40%" />
 </p>
 
 ---
@@ -147,7 +147,7 @@ The **RSA Algorithm** experiment explores public-key encryption, including **key
 
 #### 🌟 **GUI Preview**
 <p align="center">
-    <img src="images/experiment6-gui.png" alt="Experiment 6 GUI" width="60%" />
+    <img src="images/experiment6-gui.png" alt="Experiment 6 GUI" width="40%" />
 </p>
 
 ---
