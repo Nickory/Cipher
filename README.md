@@ -55,7 +55,7 @@ This experiment focuses on the **Substitution Cipher**. Learn how to **encrypt**
 
 #### 🌟 **GUI Preview**
 <p align="center">
-    <img src="images/experiment2-gui.png" alt="Experiment 2 GUI" width="60%" />
+    <img src="images/experiment2-gui.png" alt="Experiment 2 GUI" width="40%" />
 </p>
 
 ---
