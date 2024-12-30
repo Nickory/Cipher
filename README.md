@@ -55,7 +55,7 @@ This experiment focuses on the **Substitution Cipher**. Learn how to **encrypt**
 
 #### 🌟 **GUI Preview**
 <p align="center">
-    <img src="images/experiment2-gui.png" alt="Experiment 2 GUI" width="40%" />
+    <img src="images/experiment2-gui.png" alt="Experiment 2 GUI" width="30%" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ The **Playfair Cipher** experiment demonstrates both the encryption and decrypti
 
 #### 🌟 **GUI Preview**
 <p align="center">
-    <img src="images/experiment3-gui.png" alt="Experiment 3 GUI" width="40%" />
+    <img src="images/experiment3-gui.png" alt="Experiment 3 GUI" width="30%" />
 </p>
 
 ---
@@ -101,7 +101,7 @@ In this experiment, you’ll implement the **Feistel Cipher**, a structure used 
 
 #### 🌟 **GUI Preview**
 <p align="center">
-    <img src="images/experiment4-gui.png" alt="Experiment 4 GUI" width="40%" />
+    <img src="images/experiment4-gui.png" alt="Experiment 4 GUI" width="30%" />
 </p>
 
 ---
