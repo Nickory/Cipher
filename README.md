@@ -14,7 +14,6 @@ Welcome to the **Cipher** repository! This collection contains six experiments r
 - **📊 Data Visualizations**: Visual representations of key results to help you better understand algorithm behavior and performance.
 
 ---
-
 ## Experiments 🔬
 
 ### Experiment 1: Extended Euclidean Algorithm / 扩展欧几里得算法
@@ -42,6 +41,18 @@ The following images showcase key results from this experiment:
 #### 🔑 **Description**
 This experiment focuses on the **Substitution Cipher**. Learn how to **encrypt** and **decrypt** messages and explore its weaknesses through frequency analysis of ciphertexts.
 
+#### 🎨 **Key Visualizations**
+<p align="center">
+    <img src="images/experiment2-img1.png" alt="Visualization 1" width="30%" style="margin: 0 1%;" />
+    <img src="images/experiment2-img2.png" alt="Visualization 2" width="30%" style="margin: 0 1%;" />
+    <img src="images/experiment2-img3.png" alt="Visualization 3" width="30%" style="margin: 0 1%;" />
+</p>
+<p align="center">
+    <b>Figure 1:</b> Visualization 1 &nbsp;&nbsp; 
+    <b>Figure 2:</b> Visualization 2 &nbsp;&nbsp; 
+    <b>Figure 3:</b> Visualization 3
+</p>
+
 #### 🌟 **GUI Preview**
 <p align="center">
     <img src="images/experiment2-gui.png" alt="Experiment 2 GUI" width="60%" />
@@ -52,6 +63,18 @@ This experiment focuses on the **Substitution Cipher**. Learn how to **encrypt**
 ### Experiment 3: Playfair Cipher / Playfair密码
 #### 🔍 **Description**
 The **Playfair Cipher** experiment demonstrates both the encryption and decryption processes. It also evaluates the **avalanche effect**, where small changes in input lead to large variations in output.
+
+#### 🎨 **Key Visualizations**
+<p align="center">
+    <img src="images/experiment3-img1.png" alt="Visualization 1" width="30%" style="margin: 0 1%;" />
+    <img src="images/experiment3-img2.png" alt="Visualization 2" width="30%" style="margin: 0 1%;" />
+    <img src="images/experiment3-img3.png" alt="Visualization 3" width="30%" style="margin: 0 1%;" />
+</p>
+<p align="center">
+    <b>Figure 1:</b> Visualization 1 &nbsp;&nbsp; 
+    <b>Figure 2:</b> Visualization 2 &nbsp;&nbsp; 
+    <b>Figure 3:</b> Visualization 3
+</p>
 
 #### 🌟 **GUI Preview**
 <p align="center">
@@ -64,6 +87,18 @@ The **Playfair Cipher** experiment demonstrates both the encryption and decrypti
 #### 🔐 **Description**
 In this experiment, you’ll implement the **Feistel Cipher**, a structure used in many symmetric encryption algorithms. We will test its **avalanche effect** and its security against differential cryptanalysis.
 
+#### 🎨 **Key Visualizations**
+<p align="center">
+    <img src="images/experiment4-img1.png" alt="Visualization 1" width="30%" style="margin: 0 1%;" />
+    <img src="images/experiment4-img2.png" alt="Visualization 2" width="30%" style="margin: 0 1%;" />
+    <img src="images/experiment4-img3.png" alt="Visualization 3" width="30%" style="margin: 0 1%;" />
+</p>
+<p align="center">
+    <b>Figure 1:</b> Visualization 1 &nbsp;&nbsp; 
+    <b>Figure 2:</b> Visualization 2 &nbsp;&nbsp; 
+    <b>Figure 3:</b> Visualization 3
+</p>
+
 #### 🌟 **GUI Preview**
 <p align="center">
     <img src="images/experiment4-gui.png" alt="Experiment 4 GUI" width="60%" />
@@ -74,6 +109,18 @@ In this experiment, you’ll implement the **Feistel Cipher**, a structure used 
 ### Experiment 5: AES Algorithm / AES算法
 #### 🔑 **Description**
 This experiment focuses on implementing the **Advanced Encryption Standard (AES)**. Using Python’s cryptographic libraries, we analyze AES in **CTR (Counter) mode**, including performance metrics.
+
+#### 🎨 **Key Visualizations**
+<p align="center">
+    <img src="images/experiment5-img1.png" alt="Visualization 1" width="30%" style="margin: 0 1%;" />
+    <img src="images/experiment5-img2.png" alt="Visualization 2" width="30%" style="margin: 0 1%;" />
+    <img src="images/experiment5-img3.png" alt="Visualization 3" width="30%" style="margin: 0 1%;" />
+</p>
+<p align="center">
+    <b>Figure 1:</b> Visualization 1 &nbsp;&nbsp; 
+    <b>Figure 2:</b> Visualization 2 &nbsp;&nbsp; 
+    <b>Figure 3:</b> Visualization 3
+</p>
 
 #### 🌟 **GUI Preview**
 <p align="center">
@@ -86,12 +133,25 @@ This experiment focuses on implementing the **Advanced Encryption Standard (AES)
 #### 🔓 **Description**
 The **RSA Algorithm** experiment explores public-key encryption, including **key generation**, **encryption**, and **decryption**. We’ll also analyze RSA’s performance and security.
 
+#### 🎨 **Key Visualizations**
+<p align="center">
+    <img src="images/experiment6-img1.png" alt="Visualization 1" width="30%" style="margin: 0 1%;" />
+    <img src="images/experiment6-img2.png" alt="Visualization 2" width="30%" style="margin: 0 1%;" />
+    <img src="images/experiment6-img3.png" alt="Visualization 3" width="30%" style="margin: 0 1%;" />
+</p>
+<p align="center">
+    <b>Figure 1:</b> Visualization 1 &nbsp;&nbsp; 
+    <b>Figure 2:</b> Visualization 2 &nbsp;&nbsp; 
+    <b>Figure 3:</b> Visualization 3
+</p>
+
 #### 🌟 **GUI Preview**
 <p align="center">
     <img src="images/experiment6-gui.png" alt="Experiment 6 GUI" width="60%" />
 </p>
 
 ---
+
 
 ## License 📄
 
