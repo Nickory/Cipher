@@ -110,18 +110,6 @@ In this experiment, you’ll implement the **Feistel Cipher**, a structure used 
 #### 🔑 **Description**
 This experiment focuses on implementing the **Advanced Encryption Standard (AES)**. Using Python’s cryptographic libraries, we analyze AES in **CTR (Counter) mode**, including performance metrics.
 
-#### 🎨 **Key Visualizations**
-<p align="center">
-    <img src="images/experiment5-img1.png" alt="Visualization 1" width="30%" style="margin: 0 1%;" />
-    <img src="images/experiment5-img2.png" alt="Visualization 2" width="30%" style="margin: 0 1%;" />
-    <img src="images/experiment5-img3.png" alt="Visualization 3" width="30%" style="margin: 0 1%;" />
-</p>
-<p align="center">
-    <b>Figure 1:</b> Visualization 1 &nbsp;&nbsp; 
-    <b>Figure 2:</b> Visualization 2 &nbsp;&nbsp; 
-    <b>Figure 3:</b> Visualization 3
-</p>
-
 #### 🌟 **GUI Preview**
 <p align="center">
     <img src="images/experiment5-gui.png" alt="Experiment 5 GUI" width="40%" />
@@ -132,18 +120,6 @@ This experiment focuses on implementing the **Advanced Encryption Standard (AES)
 ### Experiment 6: RSA Algorithm / RSA算法
 #### 🔓 **Description**
 The **RSA Algorithm** experiment explores public-key encryption, including **key generation**, **encryption**, and **decryption**. We’ll also analyze RSA’s performance and security.
-
-#### 🎨 **Key Visualizations**
-<p align="center">
-    <img src="images/experiment6-img1.png" alt="Visualization 1" width="30%" style="margin: 0 1%;" />
-    <img src="images/experiment6-img2.png" alt="Visualization 2" width="30%" style="margin: 0 1%;" />
-    <img src="images/experiment6-img3.png" alt="Visualization 3" width="30%" style="margin: 0 1%;" />
-</p>
-<p align="center">
-    <b>Figure 1:</b> Visualization 1 &nbsp;&nbsp; 
-    <b>Figure 2:</b> Visualization 2 &nbsp;&nbsp; 
-    <b>Figure 3:</b> Visualization 3
-</p>
 
 #### 🌟 **GUI Preview**
 <p align="center">
