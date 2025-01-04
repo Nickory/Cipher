@@ -43,7 +43,7 @@ This experiment focuses on the **Substitution Cipher**. Learn how to **encrypt**
 
 #### 🎨 **Key Visualizations**
 <p align="center">
-    <img src="images/experiment2-img1.png" alt="Visualization 1" width="35%" style="margin: 0 1%;" />
+    <img src="images/experiment2-img1.png" alt="Visualization 1" width="30%" style="margin: 0 1%;" />
     <img src="images/experiment2-img2.png" alt="Visualization 2" width="30%" style="margin: 0 1%;" />
     <img src="images/experiment2-img3.png" alt="Visualization 3" width="40%" style="margin: 0 1%;" />
 </p>
