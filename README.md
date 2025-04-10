@@ -170,6 +170,22 @@ To install and run the experiments locally, follow these steps:
 
 ---
 
+## Citation
+
+```bibtex
+@misc{wang2025cipher,
+  author = {Wang, Ziheng},
+  title = {Cipher - Application Cryptography Experiments},
+  year = {2025},
+  howpublished = {GitHub repository},
+  url = {https://github.com/Nickory/Cipher},
+  note = {Developed for the Application Cryptography course at Nanjing University of Information Science \& Technology (NUIST), supervised by Professor Zhiguo Qu and supported by Professor Baowei Wang. Funded by the National College Student Innovation and Entrepreneurship Project, Fund Number: ZR2022MF338},
+  institution = {Nanjing University of Information Science \& Technology (NUIST)},
+  license = {Creative Commons Attribution-NoDerivatives (CC BY-ND)}
+}
+```
+```
+
 ## Contributing 🤝
 
 Feel free to **fork** the repository, make improvements, and submit **pull requests**. Your contributions are always welcome!
